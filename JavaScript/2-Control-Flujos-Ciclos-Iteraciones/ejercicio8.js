@@ -1,0 +1,1 @@
+/* Desarrolla un programa que encuentre y muestre los números primos entre 1 y 100. */

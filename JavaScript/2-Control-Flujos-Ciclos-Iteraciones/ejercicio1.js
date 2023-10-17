@@ -1,0 +1,3 @@
+/*
+    Escribe un programa que pida al usuario su edad y muestre un mensaje que diga si es mayor de edad o no.
+*/

@@ -1,0 +1,1 @@
+/* Crea un programa que determine si un número ingresado por el usuario es par o impar. */
